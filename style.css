@@ -1,0 +1,29 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.header_right{
+width: 500px;
+display: inline;
+justify-content: space-between;
+align-items: center;
+}
+.menu_links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+
+}
+.heder_left{
+    display: inline;
+    justify-content: space-between;
+    align-items:center;
+    width: 300px;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
